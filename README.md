@@ -5,7 +5,7 @@
 
 ### Functions:
 ```
- Addition of two numbers.
+Addition of two numbers.
 Difference between two numbers.
 Product of two numbers.
 Division of two numbers.
